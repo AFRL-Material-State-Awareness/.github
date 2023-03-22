@@ -5,5 +5,3 @@ any code published within this organization is posted in hopes that it will be u
 Current Areas of research in this organization:
 
 -Probablity of Detection version 4.5 (PODv4.5)
-
--->
